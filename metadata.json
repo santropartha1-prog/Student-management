@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "Full-stack student management application with CRUD operations, REST API, SQLite database, input validation, and test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
